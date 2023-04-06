@@ -1,4 +1,4 @@
-# android-google-map-demo-assignment4B
+# android-google-map-demo
 
 ## Description of the project: This project is simply demonstrate using google map to show detail tabs about a giving location.
 
